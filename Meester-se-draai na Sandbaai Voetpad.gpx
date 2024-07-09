@@ -1,0 +1,4049 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2024-07-02T08:14:28Z</time>
+    <bounds maxlat="-29.803667971864343" maxlon="24.424374997615814" minlat="-29.815811002627015" minlon="24.416803037747741" />
+  </metadata>
+
+  <rte>
+    <name>Meester-se-draai na Sandbaai Voetpad</name>
+    <extensions>
+      <gpxx:RouteExtension>
+        <gpxx:IsAutoNamed>false</gpxx:IsAutoNamed>
+        <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+      </gpxx:RouteExtension>
+    </extensions>
+    <rtept lat="-29.815811002627015" lon="24.416803037747741">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.815773032605648" lon="24.416828015819192">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-1</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-1</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-1</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.815762974321842" lon="24.416832961142063">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-2</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-2</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-2</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.815720980986953" lon="24.416874032467604">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-3</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-3</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-3</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.815673036500812" lon="24.416985008865595">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-4</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-4</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-4</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.815660966560245" lon="24.416999006643891">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-5</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-5</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-5</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.815586032345891" lon="24.417161028832197">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-6</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-6</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-6</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.815579997375607" lon="24.417171003296971">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-7</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-7</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-7</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.815544039011002" lon="24.417258007451892">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-8</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-8</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-8</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.815495004877448" lon="24.417348029091954">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-9</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-9</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-9</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.815487964078784" lon="24.41736102104187">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-10</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-10</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-10</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.815443037077785" lon="24.417478032410145">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-11</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-11</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-11</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.815405989065766" lon="24.41751298494637">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-12</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-12</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-12</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.81539299711585" lon="24.417522959411144">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-13</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-13</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-13</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.815311022102833" lon="24.417697973549366">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-14</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-14</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-14</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.815300963819027" lon="24.417710965499282">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-15</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-15</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-15</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.815195016562939" lon="24.417861001566052">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-16</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-16</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-16</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.815185964107513" lon="24.417869970202446">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-17</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-17</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-17</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.815098037943244" lon="24.417884973809123">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-18</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-18</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-18</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.81502503156662" lon="24.417872987687588">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-19</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-19</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-19</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.815011033788323" lon="24.417870976030827">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-20</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-20</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-20</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.814911037683487" lon="24.417902994900942">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-21</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-21</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-21</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.814844988286495" lon="24.417882962152362">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-22</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-22</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-22</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.814828978851438" lon="24.417878016829491">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-23</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-23</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-23</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.81476997025311" lon="24.417872987687588">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-24</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-24</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-24</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.814655976369977" lon="24.417911041527987">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-25</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-25</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-25</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.814646001905203" lon="24.417914981022477">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-26</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-26</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-26</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.81459797360003" lon="24.417921015992761">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-27</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-27</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-27</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.814480040222406" lon="24.417979018762708">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-28</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-28</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-28</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.814465958625078" lon="24.417982958257198">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-29</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-29</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-29</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.814379038289189" lon="24.417994022369385">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-30</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-30</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-30</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.814333021640778" lon="24.417991004884243">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-31</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-31</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-31</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.814279964193702" lon="24.418012965470552">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-32</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-32</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-32</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.814267978072166" lon="24.418017994612455">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-33</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-33</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-33</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.814203018322587" lon="24.418063005432487">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-34</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-34</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-34</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.814161024987698" lon="24.418108016252518">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-35</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-35</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-35</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.814135041087866" lon="24.418113967403769">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-36</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-36</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-36</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.814128000289202" lon="24.418111033737659">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-37</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-37</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-37</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.814063040539622" lon="24.418085971847177">
+      <time>2024-06-26T11:35:38Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-38</name>
+      <cmt>1 Meester-se-draai na Monumentkoppie Afdraai-38</cmt>
+      <desc>1 Meester-se-draai na Monumentkoppie Afdraai-38</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.814063040539622" lon="24.418085971847177">
+      <time>2024-06-26T11:36:36Z</time>
+      <name>1 Meester-se-draai na Monumentkoppie Afdraai-381</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.814061364158988" lon="24.418092425912619">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.813977964222431" lon="24.41815797239542">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-1</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-1</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-1</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.813967989757657" lon="24.418217986822128">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-2</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-2</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-2</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.813959021121264" lon="24.418232990428805">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-3</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-3</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-3</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.813871011137962" lon="24.418398030102253">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-4</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-4</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-4</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.813860030844808" lon="24.41841596737504">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-5</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-5</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-5</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.813833041116595" lon="24.418475981801748">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-6</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-6</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-6</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.813804961740971" lon="24.418623000383377">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-7</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-7</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-7</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.813790963962674" lon="24.418644960969687">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-8</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-8</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-8</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.813700020313263" lon="24.418734982609749">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-9</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-9</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-9</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.813671018928289" lon="24.418794997036457">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-10</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-10</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-10</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.813664983958006" lon="24.418813018128276">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-11</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-11</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-11</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.813631037250161" lon="24.418860040605068">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-12</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-12</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-12</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.81358896009624" lon="24.41886599175632">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-13</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-13</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-13</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.813508996739984" lon="24.418901028111577">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-14</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-14</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-14</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.813496004790068" lon="24.418916031718254">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-15</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-15</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-15</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.813433978706598" lon="24.418962970376015">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-16</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-16</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-16</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.813343035057187" lon="24.419010998681188">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-17</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-17</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-17</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.81332803145051" lon="24.419020973145962">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-18</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-18</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-18</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.813183024525642" lon="24.419107977300882">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-19</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-19</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-19</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.813166009262204" lon="24.419115018099546">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-20</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-20</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-20</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.813035000115633" lon="24.419194981455803">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-21</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-21</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-21</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.813013039529324" lon="24.419201016426086">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-22</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-22</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-22</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.812993006780744" lon="24.419205961748958">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-23</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-23</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-23</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.812945984303951" lon="24.419245021417737">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-24</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-24</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-24</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.812863003462553" lon="24.419277962297201">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-25</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-25</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-25</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.812844982370734" lon="24.419292965903878">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-26</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-26</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-26</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.812703998759389" lon="24.419340994209051">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-27</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-27</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-27</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.812688995152712" lon="24.419349962845445">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-28</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-28</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-28</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.812527978792787" lon="24.419435039162636">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-29</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-29</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-29</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.812510963529348" lon="24.419443001970649">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-30</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-30</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-30</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.812487997114658" lon="24.419491030275822">
+      <time>2024-06-26T11:42:23Z</time>
+      <name>3 Voertuigpad na Ierse Monument</name>
+      <cmt>3 Voertuigpad na Ierse Monument</cmt>
+      <desc>3 Voertuigpad na Ierse Monument</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.812486823648214" lon="24.419496143236756">
+      <time>2024-06-26T11:36:55Z</time>
+      <name>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-31</name>
+      <cmt>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-31</cmt>
+      <desc>2 Kortpad vanaf Meester-Pad na Ierse Monumentpad-31</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.812482967972755" lon="24.419501004740596">
+      <time>2024-06-26T11:42:23Z</time>
+      <name>3 Voertuigpad na Ierse Monument-1</name>
+      <cmt>3 Voertuigpad na Ierse Monument-1</cmt>
+      <desc>3 Voertuigpad na Ierse Monument-1</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.812424965202808" lon="24.419545009732246">
+      <time>2024-06-26T11:42:23Z</time>
+      <name>3 Voertuigpad na Ierse Monument-2</name>
+      <cmt>3 Voertuigpad na Ierse Monument-2</cmt>
+      <desc>3 Voertuigpad na Ierse Monument-2</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.812348019331694" lon="24.419622961431742">
+      <time>2024-06-26T11:42:23Z</time>
+      <name>3 Voertuigpad na Ierse Monument-3</name>
+      <cmt>3 Voertuigpad na Ierse Monument-3</cmt>
+      <desc>3 Voertuigpad na Ierse Monument-3</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.812339972704649" lon="24.419637965038419">
+      <time>2024-06-26T11:42:23Z</time>
+      <name>3 Voertuigpad na Ierse Monument-4</name>
+      <cmt>3 Voertuigpad na Ierse Monument-4</cmt>
+      <desc>3 Voertuigpad na Ierse Monument-4</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.812265038490295" lon="24.419705020263791">
+      <time>2024-06-26T11:42:23Z</time>
+      <name>3 Voertuigpad na Ierse Monument-5</name>
+      <cmt>3 Voertuigpad na Ierse Monument-5</cmt>
+      <desc>3 Voertuigpad na Ierse Monument-5</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.812179040163755" lon="24.419724969193339">
+      <time>2024-06-26T11:42:23Z</time>
+      <name>3 Voertuigpad na Ierse Monument-6</name>
+      <cmt>3 Voertuigpad na Ierse Monument-6</cmt>
+      <desc>3 Voertuigpad na Ierse Monument-6</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.812163030728698" lon="24.41972597502172">
+      <time>2024-06-26T11:42:23Z</time>
+      <name>3 Voertuigpad na Ierse Monument-7</name>
+      <cmt>3 Voertuigpad na Ierse Monument-7</cmt>
+      <desc>3 Voertuigpad na Ierse Monument-7</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.812137968838215" lon="24.419733015820384">
+      <time>2024-06-26T11:42:23Z</time>
+      <name>3 Voertuigpad na Ierse Monument-8</name>
+      <cmt>3 Voertuigpad na Ierse Monument-8</cmt>
+      <desc>3 Voertuigpad na Ierse Monument-8</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.812119025737047" lon="24.41972597502172">
+      <time>2024-06-26T11:42:23Z</time>
+      <name>3 Voertuigpad na Ierse Monument-9</name>
+      <cmt>3 Voertuigpad na Ierse Monument-9</cmt>
+      <desc>3 Voertuigpad na Ierse Monument-9</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.81201802380383" lon="24.419657997786999">
+      <time>2024-06-26T11:42:23Z</time>
+      <name>3 Voertuigpad na Ierse Monument-10</name>
+      <cmt>3 Voertuigpad na Ierse Monument-10</cmt>
+      <desc>3 Voertuigpad na Ierse Monument-10</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.812012994661927" lon="24.419652968645096">
+      <time>2024-06-26T11:42:23Z</time>
+      <name>3 Voertuigpad na Ierse Monument-11</name>
+      <cmt>3 Voertuigpad na Ierse Monument-11</cmt>
+      <desc>3 Voertuigpad na Ierse Monument-11</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.811845188960433" lon="24.419750953093171">
+      <time>2024-06-26T11:42:23Z</time>
+      <name>3 Voertuigpad na Ierse Monument-12</name>
+      <cmt>3 Voertuigpad na Ierse Monument-12</cmt>
+      <desc>3 Voertuigpad na Ierse Monument-12</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.811843009665608" lon="24.419751036912203">
+      <time>2024-06-26T11:44:32Z</time>
+      <name>4 Ierse Monument na Helipad</name>
+      <cmt>4 Ierse Monument na Helipad</cmt>
+      <desc>4 Ierse Monument na Helipad</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.81180302798748" lon="24.419788001105189">
+      <time>2024-06-26T11:44:32Z</time>
+      <name>4 Ierse Monument na Helipad-1</name>
+      <cmt>4 Ierse Monument na Helipad-1</cmt>
+      <desc>4 Ierse Monument na Helipad-1</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.81175902299583" lon="24.419784983620048">
+      <time>2024-06-26T11:44:32Z</time>
+      <name>4 Ierse Monument na Helipad-2</name>
+      <cmt>4 Ierse Monument na Helipad-2</cmt>
+      <desc>4 Ierse Monument na Helipad-2</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.811749970540404" lon="24.419785989448428">
+      <time>2024-06-26T11:44:32Z</time>
+      <name>4 Ierse Monument na Helipad-3</name>
+      <cmt>4 Ierse Monument na Helipad-3</cmt>
+      <desc>4 Ierse Monument na Helipad-3</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.811679981648922" lon="24.419821025803685">
+      <time>2024-06-26T11:44:32Z</time>
+      <name>4 Ierse Monument na Helipad-4</name>
+      <cmt>4 Ierse Monument na Helipad-4</cmt>
+      <desc>4 Ierse Monument na Helipad-4</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.811619967222214" lon="24.419808033853769">
+      <time>2024-06-26T11:44:32Z</time>
+      <name>4 Ierse Monument na Helipad-5</name>
+      <cmt>4 Ierse Monument na Helipad-5</cmt>
+      <desc>4 Ierse Monument na Helipad-5</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.81158996000886" lon="24.419825971126556">
+      <time>2024-06-26T11:44:32Z</time>
+      <name>4 Ierse Monument na Helipad-6</name>
+      <cmt>4 Ierse Monument na Helipad-6</cmt>
+      <desc>4 Ierse Monument na Helipad-6</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.811580991372466" lon="24.419836029410362">
+      <time>2024-06-26T11:44:32Z</time>
+      <name>4 Ierse Monument na Helipad-7</name>
+      <cmt>4 Ierse Monument na Helipad-7</cmt>
+      <desc>4 Ierse Monument na Helipad-7</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.811520976945758" lon="24.419887997210026">
+      <time>2024-06-26T11:44:32Z</time>
+      <name>4 Ierse Monument na Helipad-8</name>
+      <cmt>4 Ierse Monument na Helipad-8</cmt>
+      <desc>4 Ierse Monument na Helipad-8</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.811440007761121" lon="24.419924039393663">
+      <time>2024-06-26T11:44:32Z</time>
+      <name>4 Ierse Monument na Helipad-9</name>
+      <cmt>4 Ierse Monument na Helipad-9</cmt>
+      <desc>4 Ierse Monument na Helipad-9</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.811430033296347" lon="24.419929990544915">
+      <time>2024-06-26T11:44:32Z</time>
+      <name>4 Ierse Monument na Helipad-10</name>
+      <cmt>4 Ierse Monument na Helipad-10</cmt>
+      <desc>4 Ierse Monument na Helipad-10</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.811368007212877" lon="24.419936025515199">
+      <time>2024-06-26T11:44:32Z</time>
+      <name>4 Ierse Monument na Helipad-11</name>
+      <cmt>4 Ierse Monument na Helipad-11</cmt>
+      <desc>4 Ierse Monument na Helipad-11</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.811365995556116" lon="24.419963015243411">
+      <time>2024-06-26T11:44:32Z</time>
+      <name>4 Ierse Monument na Helipad-12</name>
+      <cmt>4 Ierse Monument na Helipad-12</cmt>
+      <desc>4 Ierse Monument na Helipad-12</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.811302963644266" lon="24.419997967779636">
+      <time>2024-06-26T11:44:32Z</time>
+      <name>4 Ierse Monument na Helipad-13</name>
+      <cmt>4 Ierse Monument na Helipad-13</cmt>
+      <desc>4 Ierse Monument na Helipad-13</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.811281003057957" lon="24.420025963336229">
+      <time>2024-06-26T11:44:32Z</time>
+      <name>4 Ierse Monument na Helipad-14</name>
+      <cmt>4 Ierse Monument na Helipad-14</cmt>
+      <desc>4 Ierse Monument na Helipad-14</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.811273040249944" lon="24.420039961114526">
+      <time>2024-06-26T11:44:32Z</time>
+      <name>4 Ierse Monument na Helipad-15</name>
+      <cmt>4 Ierse Monument na Helipad-15</cmt>
+      <desc>4 Ierse Monument na Helipad-15</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.811249990016222" lon="24.42006804049015">
+      <time>2024-06-26T11:44:32Z</time>
+      <name>4 Ierse Monument na Helipad-16</name>
+      <cmt>4 Ierse Monument na Helipad-16</cmt>
+      <desc>4 Ierse Monument na Helipad-16</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.811189975589514" lon="24.420100981369615">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.811188466846943" lon="24.42010223865509">
+      <time>2024-06-26T11:44:32Z</time>
+      <name>4 Ierse Monument na Helipad-17</name>
+      <cmt>4 Ierse Monument na Helipad-17</cmt>
+      <desc>4 Ierse Monument na Helipad-17</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.811150999739766" lon="24.420119002461433">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-1</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-1</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-1</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.811125015839934" lon="24.420170970261097">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-2</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-2</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-2</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.81111797504127" lon="24.420180022716522">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-3</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-3</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-3</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.811081010848284" lon="24.420266021043062">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-4</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-4</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-4</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.811072964221239" lon="24.420342966914177">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-5</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-5</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-5</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.811070030555129" lon="24.420359982177615">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-6</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-6</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-6</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.81105100363493" lon="24.420493002980947">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-7</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-7</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-7</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.811025019735098" lon="24.420577995479107">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-8</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-8</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-8</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.811020996421576" lon="24.420590987429023">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-9</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-9</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-9</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.810954025015235" lon="24.420772958546877">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-10</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-10</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-10</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.810947990044951" lon="24.420789973810315">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-11</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-11</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-11</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.810905996710062" lon="24.420824004337192">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-12</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-12</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-12</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.810864003375173" lon="24.42084495909512">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-13</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-13</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-13</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.810787979513407" lon="24.420849988237023">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-14</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-14</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-14</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.810778005048633" lon="24.42084495909512">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-15</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-15</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-15</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.810717990621924" lon="24.420832972973585">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-16</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-16</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-16</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.810669962316751" lon="24.420840013772249">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-17</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-17</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-17</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.810602990910411" lon="24.420875972136855">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-18</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-18</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-18</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.810596033930779" lon="24.42088795825839">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-19</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-19</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-19</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.810538031160831" lon="24.4210359826684">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-20</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-20</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-20</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.810529984533787" lon="24.421050986275077">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-21</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-21</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-21</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.810510035604239" lon="24.421090967953205">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-22</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-22</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-22</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.810473993420601" lon="24.42112298682332">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-23</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-23</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-23</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.810418002307415" lon="24.421215020120144">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-24</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-24</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-24</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.810412973165512" lon="24.421234969049692">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-25</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-25</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-25</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.810372991487384" lon="24.421290038153529">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-26</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-26</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-26</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.810263020917773" lon="24.421385005116463">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-27</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-27</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-27</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.810253968462348" lon="24.421392967924476">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-28</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-28</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-28</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.810225972905755" lon="24.421452982351184">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-29</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-29</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-29</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.810197977349162" lon="24.421548033133149">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-30</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-30</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-30</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.81019495986402" lon="24.421563036739826">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-31</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-31</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-31</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.810171406716108" lon="24.421616764739156">
+      <time>2024-06-26T11:47:39Z</time>
+      <name>5 Helipad na Sandbaai Voetpad begin-32</name>
+      <cmt>5 Helipad na Sandbaai Voetpad begin-32</cmt>
+      <desc>5 Helipad na Sandbaai Voetpad begin-32</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.810165958479047" lon="24.421618022024632">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad</name>
+      <cmt>6 Sandbaai voetpad</cmt>
+      <desc>6 Sandbaai voetpad</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.810100998729467" lon="24.421607963740826">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-1</name>
+      <cmt>6 Sandbaai voetpad-1</cmt>
+      <desc>6 Sandbaai voetpad-1</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.810094963759184" lon="24.421605030074716">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-2</name>
+      <cmt>6 Sandbaai voetpad-2</cmt>
+      <desc>6 Sandbaai voetpad-2</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.81006596237421" lon="24.421592960134149">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-3</name>
+      <cmt>6 Sandbaai voetpad-3</cmt>
+      <desc>6 Sandbaai voetpad-3</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.80997602455318" lon="24.42159497179091">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-4</name>
+      <cmt>6 Sandbaai voetpad-4</cmt>
+      <desc>6 Sandbaai voetpad-4</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.809950962662697" lon="24.42159597761929">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-5</name>
+      <cmt>6 Sandbaai voetpad-5</cmt>
+      <desc>6 Sandbaai voetpad-5</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.809924978762865" lon="24.421610981225967">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-6</name>
+      <cmt>6 Sandbaai voetpad-6</cmt>
+      <desc>6 Sandbaai voetpad-6</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.809915004298091" lon="24.421621039509773">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-7</name>
+      <cmt>6 Sandbaai voetpad-7</cmt>
+      <desc>6 Sandbaai voetpad-7</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.80989103205502" lon="24.421654986217618">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-8</name>
+      <cmt>6 Sandbaai voetpad-8</cmt>
+      <desc>6 Sandbaai voetpad-8</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.80984803289175" lon="24.421679964289069">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-9</name>
+      <cmt>6 Sandbaai voetpad-9</cmt>
+      <desc>6 Sandbaai voetpad-9</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.809779971837997" lon="24.421689016744494">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-10</name>
+      <cmt>6 Sandbaai voetpad-10</cmt>
+      <desc>6 Sandbaai voetpad-10</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.809746025130153" lon="24.42167803645134">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-11</name>
+      <cmt>6 Sandbaai voetpad-11</cmt>
+      <desc>6 Sandbaai voetpad-11</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.809737978503108" lon="24.421673007309437">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-12</name>
+      <cmt>6 Sandbaai voetpad-12</cmt>
+      <desc>6 Sandbaai voetpad-12</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.809564976021647" lon="24.421601006761193">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-13</name>
+      <cmt>6 Sandbaai voetpad-13</cmt>
+      <desc>6 Sandbaai voetpad-13</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.809550978243351" lon="24.421601006761193">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-14</name>
+      <cmt>6 Sandbaai voetpad-14</cmt>
+      <desc>6 Sandbaai voetpad-14</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.809515019878745" lon="24.421597989276052">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-15</name>
+      <cmt>6 Sandbaai voetpad-15</cmt>
+      <desc>6 Sandbaai voetpad-15</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.809489035978913" lon="24.421607963740826">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-16</name>
+      <cmt>6 Sandbaai voetpad-16</cmt>
+      <desc>6 Sandbaai voetpad-16</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.80946296826005" lon="24.4217249751091">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-17</name>
+      <cmt>6 Sandbaai voetpad-17</cmt>
+      <desc>6 Sandbaai voetpad-17</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.809459028765559" lon="24.421735033392906">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-18</name>
+      <cmt>6 Sandbaai voetpad-18</cmt>
+      <desc>6 Sandbaai voetpad-18</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.809435978531837" lon="24.421799993142486">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-19</name>
+      <cmt>6 Sandbaai voetpad-19</cmt>
+      <desc>6 Sandbaai voetpad-19</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.809390967711806" lon="24.421855984255672">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-20</name>
+      <cmt>6 Sandbaai voetpad-20</cmt>
+      <desc>6 Sandbaai voetpad-20</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.809340005740523" lon="24.421891020610929">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-21</name>
+      <cmt>6 Sandbaai voetpad-21</cmt>
+      <desc>6 Sandbaai voetpad-21</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.809328019618988" lon="24.421891020610929">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-22</name>
+      <cmt>6 Sandbaai voetpad-22</cmt>
+      <desc>6 Sandbaai voetpad-22</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.809232968837023" lon="24.421857995912433">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-23</name>
+      <cmt>6 Sandbaai voetpad-23</cmt>
+      <desc>6 Sandbaai voetpad-23</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.809186030179262" lon="24.421848021447659">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-24</name>
+      <cmt>6 Sandbaai voetpad-24</cmt>
+      <desc>6 Sandbaai voetpad-24</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.809149987995625" lon="24.42185296677053">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-25</name>
+      <cmt>6 Sandbaai voetpad-25</cmt>
+      <desc>6 Sandbaai voetpad-25</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.809138001874089" lon="24.421855984255672">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-26</name>
+      <cmt>6 Sandbaai voetpad-26</cmt>
+      <desc>6 Sandbaai voetpad-26</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.809105983003974" lon="24.421857995912433">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-27</name>
+      <cmt>6 Sandbaai voetpad-27</cmt>
+      <desc>6 Sandbaai voetpad-27</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.809050997719169" lon="24.421827988699079">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-28</name>
+      <cmt>6 Sandbaai voetpad-28</cmt>
+      <desc>6 Sandbaai voetpad-28</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.808974973857403" lon="24.421808961778879">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-29</name>
+      <cmt>6 Sandbaai voetpad-29</cmt>
+      <desc>6 Sandbaai voetpad-29</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.808962987735868" lon="24.42180803976953">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-30</name>
+      <cmt>6 Sandbaai voetpad-30</cmt>
+      <desc>6 Sandbaai voetpad-30</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.808769030496478" lon="24.42180803976953">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-31</name>
+      <cmt>6 Sandbaai voetpad-31</cmt>
+      <desc>6 Sandbaai voetpad-31</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.808756038546562" lon="24.42180803976953">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-32</name>
+      <cmt>6 Sandbaai voetpad-32</cmt>
+      <desc>6 Sandbaai voetpad-32</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.808670962229371" lon="24.42180803976953">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-33</name>
+      <cmt>6 Sandbaai voetpad-33</cmt>
+      <desc>6 Sandbaai voetpad-33</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.80862301774323" lon="24.421791024506092">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-34</name>
+      <cmt>6 Sandbaai voetpad-34</cmt>
+      <desc>6 Sandbaai voetpad-34</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.808574989438057" lon="24.421757999807596">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-35</name>
+      <cmt>6 Sandbaai voetpad-35</cmt>
+      <desc>6 Sandbaai voetpad-35</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.808569960296154" lon="24.421748025342822">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-36</name>
+      <cmt>6 Sandbaai voetpad-36</cmt>
+      <desc>6 Sandbaai voetpad-36</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.808463007211685" lon="24.421739978715777">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-37</name>
+      <cmt>6 Sandbaai voetpad-37</cmt>
+      <desc>6 Sandbaai voetpad-37</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.808385977521539" lon="24.421748025342822">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-38</name>
+      <cmt>6 Sandbaai voetpad-38</cmt>
+      <desc>6 Sandbaai voetpad-38</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.808374997228384" lon="24.421748025342822">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-39</name>
+      <cmt>6 Sandbaai voetpad-39</cmt>
+      <desc>6 Sandbaai voetpad-39</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.808269971981645" lon="24.421716006472707">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-40</name>
+      <cmt>6 Sandbaai voetpad-40</cmt>
+      <desc>6 Sandbaai voetpad-40</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.808212975040078" lon="24.421719023957849">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-41</name>
+      <cmt>6 Sandbaai voetpad-41</cmt>
+      <desc>6 Sandbaai voetpad-41</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.808203000575304" lon="24.421719023957849">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-42</name>
+      <cmt>6 Sandbaai voetpad-42</cmt>
+      <desc>6 Sandbaai voetpad-42</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.808125970885158" lon="24.421718018129468">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-43</name>
+      <cmt>6 Sandbaai voetpad-43</cmt>
+      <desc>6 Sandbaai voetpad-43</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.808033015578985" lon="24.421752970665693">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-44</name>
+      <cmt>6 Sandbaai voetpad-44</cmt>
+      <desc>6 Sandbaai voetpad-44</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.80802396312356" lon="24.42176403477788">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-45</name>
+      <cmt>6 Sandbaai voetpad-45</cmt>
+      <desc>6 Sandbaai voetpad-45</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807997979223728" lon="24.421799993142486">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-46</name>
+      <cmt>6 Sandbaai voetpad-46</cmt>
+      <desc>6 Sandbaai voetpad-46</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807955985888839" lon="24.421812985092402">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-47</name>
+      <cmt>6 Sandbaai voetpad-47</cmt>
+      <desc>6 Sandbaai voetpad-47</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807936036959291" lon="24.42183100618422">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-48</name>
+      <cmt>6 Sandbaai voetpad-48</cmt>
+      <desc>6 Sandbaai voetpad-48</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807931007817388" lon="24.42185296677053">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-49</name>
+      <cmt>6 Sandbaai voetpad-49</cmt>
+      <desc>6 Sandbaai voetpad-49</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807893037796021" lon="24.421905018389225">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-50</name>
+      <cmt>6 Sandbaai voetpad-50</cmt>
+      <desc>6 Sandbaai voetpad-50</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807885996997356" lon="24.421918010339141">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-51</name>
+      <cmt>6 Sandbaai voetpad-51</cmt>
+      <desc>6 Sandbaai voetpad-51</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807850038632751" lon="24.4220030028373">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-52</name>
+      <cmt>6 Sandbaai voetpad-52</cmt>
+      <desc>6 Sandbaai voetpad-52</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807791030034423" lon="24.422033010050654">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-53</name>
+      <cmt>6 Sandbaai voetpad-53</cmt>
+      <desc>6 Sandbaai voetpad-53</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.80776303447783" lon="24.422059999778867">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-54</name>
+      <cmt>6 Sandbaai voetpad-54</cmt>
+      <desc>6 Sandbaai voetpad-54</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807752976194024" lon="24.42206796258688">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-55</name>
+      <cmt>6 Sandbaai voetpad-55</cmt>
+      <desc>6 Sandbaai voetpad-55</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807649962604046" lon="24.422161001712084">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-56</name>
+      <cmt>6 Sandbaai voetpad-56</cmt>
+      <desc>6 Sandbaai voetpad-56</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807637976482511" lon="24.422193020582199">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-57</name>
+      <cmt>6 Sandbaai voetpad-57</cmt>
+      <desc>6 Sandbaai voetpad-57</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807631019502878" lon="24.422202995046973">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-58</name>
+      <cmt>6 Sandbaai voetpad-58</cmt>
+      <desc>6 Sandbaai voetpad-58</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807605035603046" lon="24.422296034172177">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-59</name>
+      <cmt>6 Sandbaai voetpad-59</cmt>
+      <desc>6 Sandbaai voetpad-59</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807565975934267" lon="24.422348001971841">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-60</name>
+      <cmt>6 Sandbaai voetpad-60</cmt>
+      <desc>6 Sandbaai voetpad-60</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807556001469493" lon="24.422381026670337">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-61</name>
+      <cmt>6 Sandbaai voetpad-61</cmt>
+      <desc>6 Sandbaai voetpad-61</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807556001469493" lon="24.42238999530673">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-62</name>
+      <cmt>6 Sandbaai voetpad-62</cmt>
+      <desc>6 Sandbaai voetpad-62</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807520965114236" lon="24.422513041645288">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-63</name>
+      <cmt>6 Sandbaai voetpad-63</cmt>
+      <desc>6 Sandbaai voetpad-63</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807492969557643" lon="24.422562997788191">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-64</name>
+      <cmt>6 Sandbaai voetpad-64</cmt>
+      <desc>6 Sandbaai voetpad-64</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807489030063152" lon="24.422578001394868">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-65</name>
+      <cmt>6 Sandbaai voetpad-65</cmt>
+      <desc>6 Sandbaai voetpad-65</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807482995092869" lon="24.422611026093364">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-66</name>
+      <cmt>6 Sandbaai voetpad-66</cmt>
+      <desc>6 Sandbaai voetpad-66</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807388028129935" lon="24.42273398861289">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-67</name>
+      <cmt>6 Sandbaai voetpad-67</cmt>
+      <desc>6 Sandbaai voetpad-67</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807377969846129" lon="24.422739017754793">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-68</name>
+      <cmt>6 Sandbaai voetpad-68</cmt>
+      <desc>6 Sandbaai voetpad-68</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807304041460156" lon="24.422811018303037">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-69</name>
+      <cmt>6 Sandbaai voetpad-69</cmt>
+      <desc>6 Sandbaai voetpad-69</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807252995669842" lon="24.422838008031249">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-70</name>
+      <cmt>6 Sandbaai voetpad-70</cmt>
+      <desc>6 Sandbaai voetpad-70</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807243021205068" lon="24.422844965010881">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-71</name>
+      <cmt>6 Sandbaai voetpad-71</cmt>
+      <desc>6 Sandbaai voetpad-71</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807220976799726" lon="24.422873966395855">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-72</name>
+      <cmt>6 Sandbaai voetpad-72</cmt>
+      <desc>6 Sandbaai voetpad-72</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807203039526939" lon="24.423043029382825">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-73</name>
+      <cmt>6 Sandbaai voetpad-73</cmt>
+      <desc>6 Sandbaai voetpad-73</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807203039526939" lon="24.423050992190838">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-74</name>
+      <cmt>6 Sandbaai voetpad-74</cmt>
+      <desc>6 Sandbaai voetpad-74</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807192981243134" lon="24.423088040202856">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-75</name>
+      <cmt>6 Sandbaai voetpad-75</cmt>
+      <desc>6 Sandbaai voetpad-75</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807160962373018" lon="24.423135984688997">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-76</name>
+      <cmt>6 Sandbaai voetpad-76</cmt>
+      <desc>6 Sandbaai voetpad-76</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.8070980142802" lon="24.42318401299417">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-77</name>
+      <cmt>6 Sandbaai voetpad-77</cmt>
+      <desc>6 Sandbaai voetpad-77</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807088039815426" lon="24.423192981630564">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-78</name>
+      <cmt>6 Sandbaai voetpad-78</cmt>
+      <desc>6 Sandbaai voetpad-78</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.80707798153162" lon="24.423194993287325">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-79</name>
+      <cmt>6 Sandbaai voetpad-79</cmt>
+      <desc>6 Sandbaai voetpad-79</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.807037999853492" lon="24.423273028805852">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-80</name>
+      <cmt>6 Sandbaai voetpad-80</cmt>
+      <desc>6 Sandbaai voetpad-80</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806986032053828" lon="24.42333597689867">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-81</name>
+      <cmt>6 Sandbaai voetpad-81</cmt>
+      <desc>6 Sandbaai voetpad-81</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806977985426784" lon="24.423345029354095">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-82</name>
+      <cmt>6 Sandbaai voetpad-82</cmt>
+      <desc>6 Sandbaai voetpad-82</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806950995698571" lon="24.423371013253927">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-83</name>
+      <cmt>6 Sandbaai voetpad-83</cmt>
+      <desc>6 Sandbaai voetpad-83</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806928029283881" lon="24.423415018245578">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-84</name>
+      <cmt>6 Sandbaai voetpad-84</cmt>
+      <desc>6 Sandbaai voetpad-84</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806860974058509" lon="24.423449970781803">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-85</name>
+      <cmt>6 Sandbaai voetpad-85</cmt>
+      <desc>6 Sandbaai voetpad-85</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806850999593735" lon="24.423458017408848">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-86</name>
+      <cmt>6 Sandbaai voetpad-86</cmt>
+      <desc>6 Sandbaai voetpad-86</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806825015693903" lon="24.423456005752087">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-87</name>
+      <cmt>6 Sandbaai voetpad-87</cmt>
+      <desc>6 Sandbaai voetpad-87</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806769024580717" lon="24.423433039337397">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-88</name>
+      <cmt>6 Sandbaai voetpad-88</cmt>
+      <desc>6 Sandbaai voetpad-88</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806743040680885" lon="24.423434967175126">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-89</name>
+      <cmt>6 Sandbaai voetpad-89</cmt>
+      <desc>6 Sandbaai voetpad-89</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806702975183725" lon="24.423476038500667">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-90</name>
+      <cmt>6 Sandbaai voetpad-90</cmt>
+      <desc>6 Sandbaai voetpad-90</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806696018204093" lon="24.42348400130868">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-91</name>
+      <cmt>6 Sandbaai voetpad-91</cmt>
+      <desc>6 Sandbaai voetpad-91</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806656036525965" lon="24.423520965501666">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-92</name>
+      <cmt>6 Sandbaai voetpad-92</cmt>
+      <desc>6 Sandbaai voetpad-92</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806617982685566" lon="24.423510991036892">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-93</name>
+      <cmt>6 Sandbaai voetpad-93</cmt>
+      <desc>6 Sandbaai voetpad-93</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806541036814451" lon="24.423513002693653">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-94</name>
+      <cmt>6 Sandbaai voetpad-94</cmt>
+      <desc>6 Sandbaai voetpad-94</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806538019329309" lon="24.423518031835556">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-95</name>
+      <cmt>6 Sandbaai voetpad-95</cmt>
+      <desc>6 Sandbaai voetpad-95</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806487979367375" lon="24.423537980765104">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-96</name>
+      <cmt>6 Sandbaai voetpad-96</cmt>
+      <desc>6 Sandbaai voetpad-96</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806442968547344" lon="24.423522977158427">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-97</name>
+      <cmt>6 Sandbaai voetpad-97</cmt>
+      <desc>6 Sandbaai voetpad-97</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806393012404442" lon="24.42352800630033">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-98</name>
+      <cmt>6 Sandbaai voetpad-98</cmt>
+      <desc>6 Sandbaai voetpad-98</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806366022676229" lon="24.423520965501666">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-99</name>
+      <cmt>6 Sandbaai voetpad-99</cmt>
+      <desc>6 Sandbaai voetpad-99</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806357976049185" lon="24.423516020178795">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-100</name>
+      <cmt>6 Sandbaai voetpad-100</cmt>
+      <desc>6 Sandbaai voetpad-100</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806283041834831" lon="24.423465980216861">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-101</name>
+      <cmt>6 Sandbaai voetpad-101</cmt>
+      <desc>6 Sandbaai voetpad-101</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806257979944348" lon="24.423419963568449">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-102</name>
+      <cmt>6 Sandbaai voetpad-102</cmt>
+      <desc>6 Sandbaai voetpad-102</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806235013529658" lon="24.423403032124043">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-103</name>
+      <cmt>6 Sandbaai voetpad-103</cmt>
+      <desc>6 Sandbaai voetpad-103</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806227972730994" lon="24.423403032124043">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-104</name>
+      <cmt>6 Sandbaai voetpad-104</cmt>
+      <desc>6 Sandbaai voetpad-104</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806178016588092" lon="24.423405965790153">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-105</name>
+      <cmt>6 Sandbaai voetpad-105</cmt>
+      <desc>6 Sandbaai voetpad-105</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806144991889596" lon="24.42337897606194">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-106</name>
+      <cmt>6 Sandbaai voetpad-106</cmt>
+      <desc>6 Sandbaai voetpad-106</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806124037131667" lon="24.423345029354095">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-107</name>
+      <cmt>6 Sandbaai voetpad-107</cmt>
+      <desc>6 Sandbaai voetpad-107</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806093024089932" lon="24.423330025747418">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-108</name>
+      <cmt>6 Sandbaai voetpad-108</cmt>
+      <desc>6 Sandbaai voetpad-108</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.80608799494803" lon="24.423320973291993">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-109</name>
+      <cmt>6 Sandbaai voetpad-109</cmt>
+      <desc>6 Sandbaai voetpad-109</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806075002998114" lon="24.423264982178807">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-110</name>
+      <cmt>6 Sandbaai voetpad-110</cmt>
+      <desc>6 Sandbaai voetpad-110</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806061005219817" lon="24.423244027420878">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-111</name>
+      <cmt>6 Sandbaai voetpad-111</cmt>
+      <desc>6 Sandbaai voetpad-111</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.806040972471237" lon="24.423234974965453">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-112</name>
+      <cmt>6 Sandbaai voetpad-112</cmt>
+      <desc>6 Sandbaai voetpad-112</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.805995039641857" lon="24.423241009935737">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-113</name>
+      <cmt>6 Sandbaai voetpad-113</cmt>
+      <desc>6 Sandbaai voetpad-113</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.805981041863561" lon="24.423201028257608">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-114</name>
+      <cmt>6 Sandbaai voetpad-114</cmt>
+      <desc>6 Sandbaai voetpad-114</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.805976012721658" lon="24.423190969973803">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-115</name>
+      <cmt>6 Sandbaai voetpad-115</cmt>
+      <desc>6 Sandbaai voetpad-115</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.805954974144697" lon="24.423169009387493">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-116</name>
+      <cmt>6 Sandbaai voetpad-116</cmt>
+      <desc>6 Sandbaai voetpad-116</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.805883979424834" lon="24.423160962760448">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-117</name>
+      <cmt>6 Sandbaai voetpad-117</cmt>
+      <desc>6 Sandbaai voetpad-117</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.805816002190113" lon="24.42311997525394">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-118</name>
+      <cmt>6 Sandbaai voetpad-118</cmt>
+      <desc>6 Sandbaai voetpad-118</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.805805021896958" lon="24.423115029931068">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-119</name>
+      <cmt>6 Sandbaai voetpad-119</cmt>
+      <desc>6 Sandbaai voetpad-119</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.805742995813489" lon="24.423099020496011">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-120</name>
+      <cmt>6 Sandbaai voetpad-120</cmt>
+      <desc>6 Sandbaai voetpad-120</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.805719023570418" lon="24.423105977475643">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-121</name>
+      <cmt>6 Sandbaai voetpad-121</cmt>
+      <desc>6 Sandbaai voetpad-121</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.805695973336697" lon="24.423099020496011">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-122</name>
+      <cmt>6 Sandbaai voetpad-122</cmt>
+      <desc>6 Sandbaai voetpad-122</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.805685998871922" lon="24.423071024939418">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-123</name>
+      <cmt>6 Sandbaai voetpad-123</cmt>
+      <desc>6 Sandbaai voetpad-123</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.805646017193794" lon="24.423035988584161">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-124</name>
+      <cmt>6 Sandbaai voetpad-124</cmt>
+      <desc>6 Sandbaai voetpad-124</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.805639982223511" lon="24.423030959442258">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-125</name>
+      <cmt>6 Sandbaai voetpad-125</cmt>
+      <desc>6 Sandbaai voetpad-125</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.805518025532365" lon="24.422962982207537">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-126</name>
+      <cmt>6 Sandbaai voetpad-126</cmt>
+      <desc>6 Sandbaai voetpad-126</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.805490029975772" lon="24.422981003299356">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-127</name>
+      <cmt>6 Sandbaai voetpad-127</cmt>
+      <desc>6 Sandbaai voetpad-127</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.805478965863585" lon="24.422977985814214">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-128</name>
+      <cmt>6 Sandbaai voetpad-128</cmt>
+      <desc>6 Sandbaai voetpad-128</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.805454993620515" lon="24.422950996086001">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-129</name>
+      <cmt>6 Sandbaai voetpad-129</cmt>
+      <desc>6 Sandbaai voetpad-129</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.805413000285625" lon="24.422938004136086">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-130</name>
+      <cmt>6 Sandbaai voetpad-130</cmt>
+      <desc>6 Sandbaai voetpad-130</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.805393973365426" lon="24.422918977215886">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-131</name>
+      <cmt>6 Sandbaai voetpad-131</cmt>
+      <desc>6 Sandbaai voetpad-131</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.805354997515678" lon="24.422938004136086">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-132</name>
+      <cmt>6 Sandbaai voetpad-132</cmt>
+      <desc>6 Sandbaai voetpad-132</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.805320966988802" lon="24.422932974994183">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-133</name>
+      <cmt>6 Sandbaai voetpad-133</cmt>
+      <desc>6 Sandbaai voetpad-133</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.80531501583755" lon="24.422929035499692">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-134</name>
+      <cmt>6 Sandbaai voetpad-134</cmt>
+      <desc>6 Sandbaai voetpad-134</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.805276039987803" lon="24.422929035499692">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-135</name>
+      <cmt>6 Sandbaai voetpad-135</cmt>
+      <desc>6 Sandbaai voetpad-135</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.805220970883965" lon="24.422958036884665">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-137</name>
+      <cmt>6 Sandbaai voetpad-137</cmt>
+      <desc>6 Sandbaai voetpad-137</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.805218037217855" lon="24.422975974157453">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-136</name>
+      <cmt>6 Sandbaai voetpad-136</cmt>
+      <desc>6 Sandbaai voetpad-136</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.805201021954417" lon="24.423001036047935">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-138</name>
+      <cmt>6 Sandbaai voetpad-138</cmt>
+      <desc>6 Sandbaai voetpad-138</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.805128015577793" lon="24.423068007454276">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-139</name>
+      <cmt>6 Sandbaai voetpad-139</cmt>
+      <desc>6 Sandbaai voetpad-139</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.805111000314355" lon="24.423096003010869">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-140</name>
+      <cmt>6 Sandbaai voetpad-140</cmt>
+      <desc>6 Sandbaai voetpad-140</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.805101025849581" lon="24.423105977475643">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-141</name>
+      <cmt>6 Sandbaai voetpad-141</cmt>
+      <desc>6 Sandbaai voetpad-141</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.805062972009182" lon="24.423156017437577">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-142</name>
+      <cmt>6 Sandbaai voetpad-142</cmt>
+      <desc>6 Sandbaai voetpad-142</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.804962975904346" lon="24.423234974965453">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-143</name>
+      <cmt>6 Sandbaai voetpad-143</cmt>
+      <desc>6 Sandbaai voetpad-143</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.804955013096333" lon="24.423240004107356">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-144</name>
+      <cmt>6 Sandbaai voetpad-144</cmt>
+      <desc>6 Sandbaai voetpad-144</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.80486499145627" lon="24.423343017697334">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-145</name>
+      <cmt>6 Sandbaai voetpad-145</cmt>
+      <desc>6 Sandbaai voetpad-145</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.80484495870769" lon="24.423360032960773">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-146</name>
+      <cmt>6 Sandbaai voetpad-146</cmt>
+      <desc>6 Sandbaai voetpad-146</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.804826015606523" lon="24.42335600964725">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-147</name>
+      <cmt>6 Sandbaai voetpad-147</cmt>
+      <desc>6 Sandbaai voetpad-147</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.80482098646462" lon="24.423361038789153">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-148</name>
+      <cmt>6 Sandbaai voetpad-148</cmt>
+      <desc>6 Sandbaai voetpad-148</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.804758038371801" lon="24.42344100214541">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-149</name>
+      <cmt>6 Sandbaai voetpad-149</cmt>
+      <desc>6 Sandbaai voetpad-149</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.804690983146429" lon="24.423499004915357">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-150</name>
+      <cmt>6 Sandbaai voetpad-150</cmt>
+      <desc>6 Sandbaai voetpad-150</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.804681008681655" lon="24.42350503988564">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-151</name>
+      <cmt>6 Sandbaai voetpad-151</cmt>
+      <desc>6 Sandbaai voetpad-151</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.804559973999858" lon="24.423609981313348">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-152</name>
+      <cmt>6 Sandbaai voetpad-152</cmt>
+      <desc>6 Sandbaai voetpad-152</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.804549999535084" lon="24.423620961606503">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-153</name>
+      <cmt>6 Sandbaai voetpad-153</cmt>
+      <desc>6 Sandbaai voetpad-153</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.804459977895021" lon="24.423716012388468">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-154</name>
+      <cmt>6 Sandbaai voetpad-154</cmt>
+      <desc>6 Sandbaai voetpad-154</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.804430976510048" lon="24.423731015995145">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-155</name>
+      <cmt>6 Sandbaai voetpad-155</cmt>
+      <desc>6 Sandbaai voetpad-155</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.804423013702035" lon="24.42374300211668">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-156</name>
+      <cmt>6 Sandbaai voetpad-156</cmt>
+      <desc>6 Sandbaai voetpad-156</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.804393006488681" lon="24.423779966309667">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-157</name>
+      <cmt>6 Sandbaai voetpad-157</cmt>
+      <desc>6 Sandbaai voetpad-157</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.804315976798534" lon="24.423842998221517">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-158</name>
+      <cmt>6 Sandbaai voetpad-158</cmt>
+      <desc>6 Sandbaai voetpad-158</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.804308013990521" lon="24.423850039020181">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-159</name>
+      <cmt>6 Sandbaai voetpad-159</cmt>
+      <desc>6 Sandbaai voetpad-159</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.804270965978503" lon="24.423884991556406">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-160</name>
+      <cmt>6 Sandbaai voetpad-160</cmt>
+      <desc>6 Sandbaai voetpad-160</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.804181028157473" lon="24.423936037346721">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-161</name>
+      <cmt>6 Sandbaai voetpad-161</cmt>
+      <desc>6 Sandbaai voetpad-161</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.804170969873667" lon="24.423946011811495">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-162</name>
+      <cmt>6 Sandbaai voetpad-162</cmt>
+      <desc>6 Sandbaai voetpad-162</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.804100980982184" lon="24.423990016803145">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-163</name>
+      <cmt>6 Sandbaai voetpad-163</cmt>
+      <desc>6 Sandbaai voetpad-163</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.804023029282689" lon="24.424061011523008">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-164</name>
+      <cmt>6 Sandbaai voetpad-164</cmt>
+      <desc>6 Sandbaai voetpad-164</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.804015988484025" lon="24.424070985987782">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-165</name>
+      <cmt>6 Sandbaai voetpad-165</cmt>
+      <desc>6 Sandbaai voetpad-165</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.803895959630609" lon="24.424170982092619">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-166</name>
+      <cmt>6 Sandbaai voetpad-166</cmt>
+      <desc>6 Sandbaai voetpad-166</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.803887996822596" lon="24.424182968214154">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-167</name>
+      <cmt>6 Sandbaai voetpad-167</cmt>
+      <desc>6 Sandbaai voetpad-167</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.803830999881029" lon="24.424248011782765">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-168</name>
+      <cmt>6 Sandbaai voetpad-168</cmt>
+      <desc>6 Sandbaai voetpad-168</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.803751036524773" lon="24.424304002895951">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-169</name>
+      <cmt>6 Sandbaai voetpad-169</cmt>
+      <desc>6 Sandbaai voetpad-169</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.803742989897728" lon="24.424312971532345">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-170</name>
+      <cmt>6 Sandbaai voetpad-170</cmt>
+      <desc>6 Sandbaai voetpad-170</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="-29.803667971864343" lon="24.424374997615814">
+      <time>2024-06-26T11:49:09Z</time>
+      <name>6 Sandbaai voetpad-171</name>
+      <cmt>6 Sandbaai voetpad-171</cmt>
+      <desc>6 Sandbaai voetpad-171</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+  </rte>
+
+</gpx>
